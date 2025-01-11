@@ -1,1 +1,1 @@
-# TYPING_SITE
+# TypeRace

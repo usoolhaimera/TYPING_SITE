@@ -1,0 +1,24 @@
+{
+  "name": "typeracing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "Aman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "random-words": "^2.0.1",
+    "socket.io": "^4.7.1",
+    "uuid": "^11.0.3"
+  }
+}
